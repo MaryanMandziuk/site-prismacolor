@@ -1,7 +1,7 @@
-$file-structure-top
-  $file-structure-topnavbar
-  $file-structure-jumbotron
+$!{file_structure_top}
+  $!{file_structure_topnavbar}
+  $!{file_structure_jumbotron}
 
-  $file-pencils-manga24
+  $!{file_pencils_manga24}
 
-$file-structure-bottom
+$!{file_structure_bottom}

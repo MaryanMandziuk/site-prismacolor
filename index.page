@@ -1,11 +1,11 @@
-$file-structure-top
-  $file-structure-topnavbar
-  $file-structure-jumbotron
-    $file-pencils-premier132
-    $file-pencils-premier72
-    $file-pencils-premier48
-    $file-pencils-portrait24
-    $file-pencils-premier24
-    $file-pencils-verithin24
-    $file-pencils-manga24
-$file-structure-bottom
+$!{file_structure_top}
+  $!{file_structure_topnavbar}
+  $!{file_structure_jumbotron}
+    $!{file_pencils_premier132}
+    $!{file_pencils_premier72}
+    $!{file_pencils_premier48}
+    $!{file_pencils_portrait24}
+    $!{file_pencils_premier24}
+    $!{file_pencils_verithin24}
+    $!{file_pencils_manga24}
+$!{file_structure_bottom}
